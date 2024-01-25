@@ -1,0 +1,27 @@
+ <div className="items-center h-[50vh] mt-4 border-2 border-purple-900">
+        <div>BANNER </div>
+      </div>
+
+      <div className="mt-4 items-center border-2 border-yellow-500">
+        <h1 className="font-extrabold border-2 border-blue-900">FIRST TEXT</h1>
+        <p className="border-2 border-pink-800">SECOND TEXT</p>
+      </div>
+
+      <div className="items-center border-2 border-violet-900 h-[20vh]">
+        <div className="">Image</div>
+      </div>
+
+      <div className="mt-4 items-center border-2 border-yellow-500">
+        <h1 className="font-extrabold border-2 border-blue-900">THIRD TEXT</h1>
+        <p className="border-2 border-pink-800">FORTY TEXT</p>
+      </div>
+
+      <div className="flex flex-row justify-around mt-4 border-2 border-yellow-500">
+        <div className="border-2 border-red-900 w-10" alt='1'>img</div>
+        <div className="border-2 border-red-900 w-10" alt='2'>img</div>
+        <div className="border-2 border-red-900 w-10" alt='3'>img</div>
+      </div>
+
+      <div className="items-center h-[50vh] mt-4 border-2 border-purple-900">
+        <div>BANNER 2</div>
+      </div>
