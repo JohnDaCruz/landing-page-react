@@ -16,9 +16,7 @@ import {
   Card,
   CardHeader,
   CardBody,
-  CardFooter,
   Typography,
-  Tooltip,
 } from "@material-tailwind/react";
 
 function App() {
@@ -155,7 +153,7 @@ function App() {
 
       </div>
 
-      <Footer/>
+      <Footer />
 
     </div>
   );
